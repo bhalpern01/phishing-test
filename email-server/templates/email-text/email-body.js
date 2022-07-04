@@ -1,0 +1,1 @@
+module.exports = "Hello {name},\n Your package arrived!\n <a href={link}>Click here</a> for complete pickup details."
